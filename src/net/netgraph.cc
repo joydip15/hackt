@@ -3,6 +3,8 @@
 	$Id: netgraph.cc,v 1.37 2011/05/03 19:20:53 fang Exp $
  */
 
+// JD_Test
+
 #define	ENABLE_STACKTRACE		0
 
 #include <iostream>
