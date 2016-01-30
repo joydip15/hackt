@@ -1,0 +1,5 @@
+Changes made to test files, reflecting the changes in source code in net/src area.
+
+Note: In this branch, we have more options than the main branch. So, all tests that dump only configuration options ('-d' flag in hacknet) will have changed generated-netlist, with respect to the main branch. So, the expect-spice needs to be modified.
+
+Also added a sample design for testing new features.

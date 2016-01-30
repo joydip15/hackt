@@ -1,0 +1,6 @@
+#
+The following files will be changed in this sub-directory, with respect to the main branch:
+netlist_options.hh
+netlist_options.cc
+netgraph.hh
+netgraph.cc

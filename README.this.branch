@@ -1,0 +1,7 @@
+This branch will incorporate the calculation of effective-W and effective-L of transistors for FinFET technology.
+
+Directories changed, with respect to main branch:
+   src/net
+   test/net
+
+Each directory has own README for respective changes
